@@ -1,4 +1,4 @@
-# notesApp
+# ScheduleApp
 Built with HTML, CSS, JS
 
 This is my first personal project along my journey to master Web Development.
